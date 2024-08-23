@@ -28,5 +28,15 @@ function days(endDate, startDate) {
   return Math.floor(diffInMs / (1000 * 60 * 60 * 24));
 }
 
+/**
+ * helloWorld
+ * @name helloWorld
+ */
+function helloWorld()
+{
+    console.log('Hello World')
+}
+
+
 // eslint-disable-next-line import/prefer-default-export
-export { getFullName, days };
+export { getFullName, days, helloWorld };
