@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://d800-103-43-112-97.ngrok-free.app/bin/franklin.delivery/barshat7/forms-eds/main
+    url: https://6d37-103-43-112-97.ngrok-free.app/bin/franklin.delivery/barshat7/forms-eds/main
     type: "markup"
     suffix: ".html"
