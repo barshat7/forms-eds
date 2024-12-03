@@ -1,6 +1,6 @@
 /**
  * Get Greetings
- * @name getGreetings 
+ * @name getGreetings
  * @return {string}
  */
 function getGreetings() {
